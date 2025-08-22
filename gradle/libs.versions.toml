@@ -1,0 +1,7 @@
+[versions]
+material = "1.12.0"
+activityKtx = "1.8.2"
+
+[libraries]
+material = { module = "com.google.android.material:material", version.ref = "material" }
+activity-ktx = { module = "androidx.activity:activity-ktx", version.ref = "activityKtx" }
