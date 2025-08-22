@@ -42,7 +42,7 @@ A geography quiz application built for Android that tests users' knowledge with 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mandaza/geoquiz.git
    cd GeoQuiz
    ```
 
